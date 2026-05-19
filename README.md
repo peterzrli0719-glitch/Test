@@ -6,6 +6,7 @@
 {\*\expandedcolortbl;;\cssrgb\c15686\c15686\c15686;\cssrgb\c94902\c94902\c94902;\cssrgb\c6700\c6700\c6700;
 }
 \paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
 \pard\pardeftab720\li340\fi-340\ri530\sl260\sa133\partightenfactor0
 
 \f0\fs22\fsmilli11333 \cf2 \cb3 \expnd0\expndtw0\kerning0
