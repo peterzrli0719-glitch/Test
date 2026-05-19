@@ -7,7 +7,8 @@
 \pard\pardeftab720\partightenfactor0
 
 \f0\fs32 \cf0 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 ## Reflection\
+\
+## Reflection\
 \
 GitHub helps students collaborate on coding projects and track different versions of their work.\
 \
